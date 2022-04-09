@@ -118,3 +118,15 @@ Optional:
       - (Read/GET) Query homes in user object
       - (Update/PUT) Update user profile image
 
+
+Unit 7:
+x.   Sprint Plan in place using GitHub project management flow.
+x.   GitHub Project created (1pt)
+x.   GitHub Milestones created (1pt)
+x.   GitHub Issues created from user stories (2pts)
+x.   Issues added to project and assigned to specific team members (1pt)
+x.   Updated status of issues in Project board (2pts)
+x.   print planned for next week (Issues created, assigned & added to project board) (3pts)
+Completed user stories checked-off in README (2pts)
+Gifs created to show build progress and added to README (3pts)
+
