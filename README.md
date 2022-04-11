@@ -28,6 +28,8 @@ Sprint 1
 - (x) Setup Launch Screen
 - (x) Setup Registration Page
 
+http://g.recordit.co/LGEohNohXh.gif
+
 **Required Must-have Stories**
 
 * App shows a map similar to zillow
