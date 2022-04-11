@@ -28,7 +28,7 @@ Sprint 1
 - (x) Setup Launch Screen
 - (x) Setup Registration Page
 
-![http://g.recordit.co/LGEohNohXh.gif]
+<img src="http://g.recordit.co/LGEohNohXh.gif" width=250><br>
 
 **Required Must-have Stories**
 
