@@ -22,6 +22,12 @@ Shows real estate available but narrowed down from company location radius. The 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
 
+
+Sprint 1
+(x) Create Database to sign in.
+(x)Setup Launch Screem
+(x)Setup Registration Page
+
 **Required Must-have Stories**
 
 * App shows a map similar to zillow
