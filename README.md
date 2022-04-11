@@ -21,14 +21,14 @@ Shows real estate available but narrowed down from company location radius. The 
 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
-
+Look here fpr recent review
 
 Sprint 1
 - (x) Create Database to sign in.
 - (x) Setup Launch Screen
 - (x) Setup Registration Page
 
-http://g.recordit.co/LGEohNohXh.gif
+![http://g.recordit.co/LGEohNohXh.gif]
 
 **Required Must-have Stories**
 
