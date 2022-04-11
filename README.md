@@ -24,9 +24,9 @@ Shows real estate available but narrowed down from company location radius. The 
 
 
 Sprint 1
-(x) Create Database to sign in.
-(x)Setup Launch Screem
-(x)Setup Registration Page
+- (x) Create Database to sign in.
+- (x) Setup Launch Screen
+- (x) Setup Registration Page
 
 **Required Must-have Stories**
 
